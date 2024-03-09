@@ -4,7 +4,7 @@ import image3 from "../ShoesHolder/images/0434d201-f088-4cb1-a1f2-4a6d38eb489d.w
 import image4 from "../ShoesHolder/images/air-jordan-4-retro-cool-grey-.jpg";
 import image5 from "../ShoesHolder/images/spark-womens-shoes-w4WdlF.png";
 
-export const Shoelist = [
+export const shoelist = [
   {
     id: 1,
     shoeName: "Nike Air Max",
